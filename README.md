@@ -44,7 +44,8 @@ wofi wlogout xdg-desktop-portal-hyprland swappy grim slurp thunar \
 polkit-gnome python-requests pamixer pavucontrol brightnessctl bluez \
 bluez-utils blueman network-manager-applet gvfs thunar-archive-plugin \
 file-roller btop pacman-contrib starship ttf-jetbrains-mono-nerd \
-noto-fonts-emoji lxappearance xfce4-settings sddm-git sddm-sugar-candy-git 
+noto-fonts-emoji lxappearance xfce4-settings sddm-git sddm-sugar-candy-git \
+ neofetch xournalpp libreoffice-still firefox tor pipewire-als
 ```
 
 Or you can use the attached script "set-hypr" to install everything for you.
