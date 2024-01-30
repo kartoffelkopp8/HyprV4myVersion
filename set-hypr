@@ -73,6 +73,12 @@ install_stage=(
     xfce4-settings
     nwg-look-bin
     sddm
+    neofetch
+    xournalpp
+    libreoffice-still
+    firefox
+    tor
+    pipewire-alsa
 )
 
 for str in ${myArray[@]}; do
